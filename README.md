@@ -5,15 +5,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A5ACD,100:8A2BE2&height=250&section=header&text=HARI%20SUDAN%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;AI+Explorer;Hackathon+Participant;Future+Cyber+Security+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=;Full+Stack+Developer;AI+Explorer;Hackathon+Participant" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/B.E-CSE%20(Cyber%20Security)-6A5ACD?style=for-the-badge"/><br>
   <img src="https://img.shields.io/badge/Karpagam%20University-Coimbatore-4B0082?style=for-the-badge"/><br>
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-8A2BE2?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/images/ChatGPT%20Image%20Aug%201%2C%202026%2C%2011_06_47%20PM.png" alt="GOKUL G Banner" width="100%">
 </p>
 <h1 align="center">Hey 👋 I'm Hari Sudan S</h1>
 
