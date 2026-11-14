@@ -82,24 +82,16 @@ I'm a Computer Science and Engineering (Cyber Security) student from Tamil Nadu,
 </h4>
 <h2 data-importer="text" align="center">🌐 Connect with me</h2>
 <div data-importer="socials" align="center">
-  <a href="mailto:gokulggopi2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.leetcode.com/u/Gokul_G_2007/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Gokul_G_2007" height="37" width="44" /></a>
-  <a href="https://www.linkedin.com/in/gokul-g-6166443a5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="37" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/GOKULG2007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="37" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/918807315010" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="37" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/gokulg_2007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="37" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.gg/M56DbVyv6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="37" alt="discord logo"  />
-  </a>
-  <a href="https://github.com/gokulggopi2007" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:harisudans.gdr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+ <a href="https://leetcode.com/u/harisudans/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harisudans" height="37" width="44" />
+</a>
+  <a href="https://www.linkedin.com/in/hari-sudan-s-571298378/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="37" alt="LinkedIn logo"/>
+</a>
+ <a href="https://github.com/harisudan-cyber" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 </div>
 <h2 align="center">👨‍💻 LeetCode Profile</h2>
 
