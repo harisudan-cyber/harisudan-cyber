@@ -101,15 +101,12 @@ I'm a Computer Science and Engineering (Cyber Security) student from Tamil Nadu,
   </a>
   <a href="https://github.com/gokulggopi2007" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=gokulggopi2007&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GOKUL G GitHub Trophies" />
-</p>
-<h2 data-importer="text" align="center">👨‍💻 LeetCode Profile</h2>
+<h2 align="center">👨‍💻 LeetCode Profile</h2>
+
 <p align="center">
   <img 
-    src="https://leetcard.jacoblin.cool/Gokul_G_2007?theme=dark&font=Baloo&ext=heatmap"
-    alt="Gokul_G_2007 LeetCode Stats"
+    src="https://leetcard.jacoblin.cool/harisudans?theme=dark&font=Baloo&ext=heatmap"
+    alt="harisudans LeetCode Stats"
     width="800"
   />
 </p>
