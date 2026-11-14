@@ -73,6 +73,8 @@ I'm a Computer Science and Engineering (Cyber Security) student from Tamil Nadu,
 <br><br>
 🔐 Exploring Cybersecurity Concepts and Technologies
 <br><br>
+⌨️ Skilled in Fast Typing with Good Accuracy
+<br><br>
 🧠 Continuously Improving Problem-Solving Skills
 <br><br>
 🌱 Actively Learning Programming and Software Development
