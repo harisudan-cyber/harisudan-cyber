@@ -62,18 +62,21 @@ I'm a Computer Science and Engineering (Cyber Security) student from Tamil Nadu,
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
 </div>
+<h2 align="center">📜 Certifications</h2>
+
+<h4 align="center">
+🏅 NPTEL – Ethics and Entrepreneurial Strategy
+<br><br>
+🥇 English Typing – Successfully Passed
+</h4>
 <h2 align="center">🏆 Achievements</h2>
 
 <h4 align="center">
-🎓 Completed NPTEL Courses and Examinations
-<br><br>
 💻 Practicing Data Structures and Algorithms
 <br><br>
 🚀 Developed a Smart Hostel Management System
 <br><br>
 🔐 Exploring Cybersecurity Concepts and Technologies
-<br><br>
-⌨️ Skilled in Fast Typing with Good Accuracy
 <br><br>
 🧠 Continuously Improving Problem-Solving Skills
 <br><br>
